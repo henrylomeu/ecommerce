@@ -6,7 +6,7 @@
 ![Captura de tela 2023-04-30 104606](https://user-images.githubusercontent.com/115239333/235356296-fb2fe88c-35b8-466b-b1e2-007410ff3e76.png)
 
 <h1> :page_facing_up: Projeto</h1>
-<h3>Teste</h3> 
+<h3>Ecommerce</h3> 
 Essa é uma aplicação que simula um ecommerce que permite o usuario selecionar qual categoria de produtos deseja, adicionar o produto escolhido no carrinho e finalizar a compra na página de checkout</br></br>
 
 O site é construído em cima do React, uma das bibliotecas JavaScript mais populares para desenvolvimento de interfaces de usuário.</br></br>
